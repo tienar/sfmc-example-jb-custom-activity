@@ -37,6 +37,7 @@ module.exports = function configJSON(req) {
       }
     },
     configurationArguments: {
+      "applicationExtensionKey": "bbff74f0-847e-4527-8dcb-e2ac5c9611f1",
       publish: {
         url: `https://sfmc-tienar.herokuapp.com/modules/discount-code/publish`
       },
